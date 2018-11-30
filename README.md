@@ -1,7 +1,7 @@
 ### 关于悬浮窗的视频播放
 
 被youtube app的悬浮播放，有别于国内市场大部分的直播类app，后来看到QQ音乐技术团队写的两篇博文，从原理到实现介绍一下；此
-Project目的主要是 整合这两个Demo: [FloatWindowDemo](https://github.com/FightingLarry/FloatWindowDemo) 、[NoobDemo](https://github.com/willisdai/NoobDemo)
+Project目的主要是 整合这两个Demo: [FloatWindowDemo](https://github.com/FightingLarry/FloatWindowDemo) 、[NoobDemo](https://github.com/willisdai/NoobDemo)到我的[FloatPlayDemo](https://github.com/zbiext/FloatPlayDemo)
 
 另外一个实现思路 —— [EnFloatingView 应用内悬浮窗](https://github.com/leotyndale/EnFloatingView)
 
@@ -11,8 +11,9 @@ ps: EnFloatingView作者的 [EnDebugBubble](https://github.com/leotyndale/EnDebu
 顺便帖出QQ音乐技术团队 两篇文章地址
 
 1. [小窗播放视频的原理和实现（上）](https://cloud.tencent.com/developer/article/1034235)
-1. [小窗播放视频的原理和实现（下）](https://cloud.tencent.com/developer/article/1047885)
+2. [小窗播放视频的原理和实现（下）](https://cloud.tencent.com/developer/article/1047885)
 
+3. [用MediaPlayer+TextureView封装一个完美实现全屏、小窗口的视频播放器](https://www.jianshu.com/p/420f7b14d6f6)
 
 TODO:
 1. 后续再补上一些 SurfaceView、GLSurfaceView和TextureView的知识
